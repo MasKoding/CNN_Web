@@ -1,6 +1,7 @@
 <?php 
 
-    echo "tes 123";
-    echo "tes321";
+    echo "tes";
 
+    echo "line baru";
+    echo "tes321";
 ?>
