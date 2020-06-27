@@ -13,8 +13,8 @@
 
 
 -- Dumping database structure for glcm_master
-CREATE DATABASE IF NOT EXISTS `glcm_master` /*!40100 DEFAULT CHARACTER SET latin1 */;
-USE `glcm_master`;
+CREATE DATABASE IF NOT EXISTS `cnn_master` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `cnn_master`;
 
 -- Dumping structure for table glcm_master.role
 CREATE TABLE IF NOT EXISTS `role` (
