@@ -1,3 +1,4 @@
+<<<<<<< HEAD
    <!-- page content -->
    <div class="right_col" role="main">
      <div class="">
@@ -195,3 +196,12 @@
     </div>
   </div>
 </div>  -->
+=======
+<?php 
+
+    echo "tes";
+
+    echo "line baru";
+    echo "tes321";
+?>
+>>>>>>> 5c266e97b063f63be2b8e79868df70950ea2f723
