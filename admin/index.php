@@ -40,6 +40,9 @@
             case "akurasi":
                 require_once "Pengujian/akurasi.php";
             break;
+            case "cnn":
+                require_once "Pengujian/cnn.php";
+            break;
             
             }
     

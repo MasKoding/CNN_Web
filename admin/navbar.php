@@ -48,6 +48,7 @@
                   <li><a><i class="fa fa-table"></i> Pengujian <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                       <li><a href="index.php?page=akurasi">Akurasi</a></li>
+                      <li><a href="index.php?page=cnn">Cnn</a></li>
                    
                     </ul>
                   </li>

@@ -27,17 +27,17 @@
   <!-- bootstrap-daterangepicker -->
   <link href="../assets/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
 
-  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js"> </script>
-
-  <!-- Import TensorFlow.js -->
-  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.0.0/dist/tf.min.js"></script>
-  <!-- Import tfjs-vis -->
-  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis@1.0.2/dist/tfjs-vis.umd.min.js"></script>
-
-  <script src="../assets/src/js/data.js" type="module"></script>
-
+  <!-- <script src="../assets/src/js/data.js" type="module"></script> -->
+  
+  <link rel="stylesheet" type="text/css" href="styles.css">
   <!-- Import the main script file -->
-  <script src="../assets/src/js/cnn.js" type="module"></script>
+  <!-- <script src="../assets/src/js/cnn.js" type="module"></script> -->
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/tensorflow/0.10.3/tf.min.js"></script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="../assets/src/js/data.js"></script>
+  <script src="../assets/src/js/model.js"></script> -->
+
   <!-- Custom Theme Style -->
   <link href="../assets/build/css/custom.min.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="../assets/build/css/cnn.css">
 </head>
